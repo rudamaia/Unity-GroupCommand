@@ -1,0 +1,15 @@
+{
+    "name": "com.kazama.groupcommand",
+    "displayName": "Group Command",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "Group Unity objects in hierarchy. (right click or cmd+g / ctrl+g)",
+    "keywords": [
+      "editor",
+      "enhancements",
+      "group"
+    ],
+    "category": "editor",
+    "dependencies": {}
+  }
+  
